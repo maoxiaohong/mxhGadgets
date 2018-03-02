@@ -1,0 +1,4 @@
+use_frameworks!
+target 'mxhGadgets' do
+    pod 'mxhGadgets', :path => '../'
+end

@@ -1,0 +1,6 @@
+framework module mxhGadgets {
+  umbrella header "mxhGadgets-umbrella.h"
+
+  export *
+  module * { export * }
+}
