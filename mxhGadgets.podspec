@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 s.name         = 'mxhGadgets'
 s.version      = '1.5'
 s.summary      = 'ios button tools'
-s.description  = 'mxhGadgets'
+s.description  = 'mxhGadgets,for ios button tools'
 
 s.homepage     = 'https://github.com/maoxiaohong/mxhGadgets'
 s.license      = 'MIT'
